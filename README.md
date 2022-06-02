@@ -2,7 +2,7 @@
 
 ## Autor: Oscar Leiva Pizarro
 
-## Descripción: La información generada en un cultivo de ostiones, en las actividades productivas diarias, se registra en formularios. Esta información lleva a la opción de calcular crecimiento, mortalidad, densidad de siembra y cosecha, rendimientos y cantidad de ostiones en cultivo en sus distintas etapas: semilla, juvenil y adulto, agregando las cosechas realizadas. Se compararán los tres primeros meses de dos años consecutivos. En la base de datos se manipularan los datos que a través de las gráficas se explicarán situaciones normales y anómalas de producción. 
+## Descripción: La información generada en un cultivo de ostiones, en las actividades productivas diarias, se registra en formularios. Esta información lleva a la opción de calcular crecimiento, mortalidad, densidad de siembra y cosecha, rendimientos y cantidad de ostiones en cultivo en sus distintas etapas: semilla, juvenil y adulto, agregando las cosechas realizadas. Se compararán los tres primeros meses de dos años consecutivos. En la base de datos se manipularan los datos que a través de las gráficas se explicarán situaciones normales y anómalas de producción. Estas gráficas se utilizan de apoyo en la tomo de decisiones productivas.
 ## Las variables de estudio:
 El sujeto de estudio es el Ostión del Norte en sus distintas etapas de producción: semilla, juvenil y adulto. Lo que con su comportamiento y adaptación al manejo productivo, la cantidad de ostiones por actividad (supervivencia), rendimiento (ostiones por día), densidad de siembra, crecimiento y sobrevivencia.
 ## Factores que se desean analizar
