@@ -12,4 +12,4 @@ Las observaciones serán las equivalentes a dos años consecutivos considerando 
 ## Las variables respuesta:
 El sujeto de estudio es el Ostión del Norte con su comportamiento y adaptación al manejo productivo, las variables respuestas serian: la cantidad de ostiones por actividad (supervivencia), tallas de crecimiento.
 ## Variables predictoras:
-El registro de información productiva permite conocer como variables predictoras: rendimientos, tasas de crecimiento y tasas de mortalidadZZZXXXX.
+El registro de información productiva permite conocer como variables predictoras: rendimientos, tasas de crecimiento y tasas de mortalidad.
